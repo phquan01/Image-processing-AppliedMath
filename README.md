@@ -1,2 +1,2 @@
-# Image processing-AppliedMath
+# Image processing - AppliedMath
  Project2 - HCMUS
